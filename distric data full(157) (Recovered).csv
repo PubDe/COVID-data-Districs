@@ -1,0 +1,417 @@
+Month,Distric,Cases
+21-Jan,Colombo ,5884
+21-Jan,Gampaha ,3873
+21-Jan,Puttalam ,233
+21-Jan,Kalutara ,1403
+21-Jan,Anuradhapura,76
+21-Jan,Kandy ,1143
+21-Jan,Kurunegala,592
+21-Jan,Polonnaruwa,99
+21-Jan,Jaffna ,70
+21-Jan,Ratnapura ,599
+21-Jan,Kegalle ,564
+21-Jan,Moneragala,136
+21-Jan,Kalmunai ,372
+21-Jan,Matale,393
+21-Jan,Galle ,763
+21-Jan,Ampara ,98
+21-Jan,Badulla,165
+21-Jan,Matara ,531
+21-Jan,Batticoloa ,211
+21-Jan,Hambantota,219
+21-Jan,Vavunia,285
+21-Jan,Trincomalee,319
+21-Jan,Nuwaraeliya ,257
+21-Jan,Kilinochchi ,18
+21-Jan,Mannar ,122
+21-Jan,Mullativu ,10
+21-Feb,Colombo ,4599
+21-Feb,Gampaha ,3736
+21-Feb,Puttalam ,451
+21-Feb,Kalutara ,1806
+21-Feb,Anuradhapura,262
+21-Feb,Kandy ,1472
+21-Feb,Kurunegala,1042
+21-Feb,Polonnaruwa,61
+21-Feb,Jaffna ,128
+21-Feb,Ratnapura ,845
+21-Feb,Kegalle ,366
+21-Feb,Moneragala,192
+21-Feb,Kalmunai ,150
+21-Feb,Matale,373
+21-Feb,Galle ,637
+21-Feb,Ampara ,139
+21-Feb,Badulla,924
+21-Feb,Matara ,658
+21-Feb,Batticoloa ,138
+21-Feb,Hambantota,259
+21-Feb,Vavunia,41
+21-Feb,Trincomalee,71
+21-Feb,Nuwaraeliya ,396
+21-Feb,Kilinochchi ,72
+21-Feb,Mannar ,90
+21-Feb,Mullativu ,11
+21-Mar,Colombo ,1791
+21-Mar,Gampaha ,1779
+21-Mar,Puttalam ,104
+21-Mar,Kalutara ,522
+21-Mar,Anuradhapura,145
+21-Mar,Kandy ,295
+21-Mar,Kurunegala,366
+21-Mar,Polonnaruwa,27
+21-Mar,Jaffna ,468
+21-Mar,Ratnapura ,815
+21-Mar,Kegalle ,262
+21-Mar,Moneragala,171
+21-Mar,Kalmunai ,67
+21-Mar,Matale,195
+21-Mar,Galle ,474
+21-Mar,Ampara ,45
+21-Mar,Badulla,278
+21-Mar,Matara ,253
+21-Mar,Batticoloa ,118
+21-Mar,Hambantota,131
+21-Mar,Vavunia,61
+21-Mar,Trincomalee,64
+21-Mar,Nuwaraeliya ,207
+21-Mar,Kilinochchi ,25
+21-Mar,Mannar ,55
+21-Mar,Mullativu ,19
+21-Apr,Colombo ,2754
+21-Apr,Gampaha ,1758
+21-Apr,Puttalam ,391
+21-Apr,Kalutara ,887
+21-Apr,Anuradhapura,109
+21-Apr,Kandy ,404
+21-Apr,Kurunegala,1810
+21-Apr,Polonnaruwa,28
+21-Apr,Jaffna ,638
+21-Apr,Ratnapura ,309
+21-Apr,Kegalle ,70
+21-Apr,Moneragala,266
+21-Apr,Kalmunai ,22
+21-Apr,Matale,465
+21-Apr,Galle ,356
+21-Apr,Ampara ,39
+21-Apr,Badulla,61
+21-Apr,Matara ,170
+21-Apr,Batticoloa ,22
+21-Apr,Hambantota,168
+21-Apr,Vavunia,47
+21-Apr,Trincomalee,177
+21-Apr,Nuwaraeliya ,220
+21-Apr,Kilinochchi ,16
+21-Apr,Mannar ,21
+21-Apr,Mullativu ,23
+21-May,Colombo ,15050
+21-May,Gampaha ,11761
+21-May,Puttalam ,1004
+21-May,Kalutara ,11126
+21-May,Anuradhapura,1768
+21-May,Kandy ,5209
+21-May,Kurunegala,4551
+21-May,Polonnaruwa,1322
+21-May,Jaffna ,1516
+21-May,Ratnapura ,4240
+21-May,Kegalle ,1876
+21-May,Moneragala,943
+21-May,Kalmunai ,83
+21-May,Matale,2417
+21-May,Galle ,4718
+21-May,Ampara ,1063
+21-May,Badulla,1247
+21-May,Matara ,2254
+21-May,Batticoloa ,771
+21-May,Hambantota,1405
+21-May,Vavunia,535
+21-May,Trincomalee,1396
+21-May,Nuwaraeliya ,2222
+21-May,Kilinochchi ,677
+21-May,Mannar ,242
+21-May,Mullativu ,766
+21-Jun,Colombo ,13798
+21-Jun,Gampaha ,13168
+21-Jun,Puttalam ,1876
+21-Jun,Kalutara ,9950
+21-Jun,Anuradhapura,1117
+21-Jun,Kandy ,3447
+21-Jun,Kurunegala,4770
+21-Jun,Polonnaruwa,591
+21-Jun,Jaffna ,1996
+21-Jun,Ratnapura ,3369
+21-Jun,Kegalle ,1505
+21-Jun,Moneragala,725
+21-Jun,Kalmunai ,556
+21-Jun,Matale,1054
+21-Jun,Galle ,3631
+21-Jun,Ampara ,240
+21-Jun,Badulla,2457
+21-Jun,Matara ,2124
+21-Jun,Batticoloa ,1024
+21-Jun,Hambantota,724
+21-Jun,Vavunia,481
+21-Jun,Trincomalee,813
+21-Jun,Nuwaraeliya ,3025
+21-Jun,Kilinochchi ,356
+21-Jun,Mannar ,344
+21-Jun,Mullativu ,172
+21-Jul,Colombo ,9352
+21-Jul,Gampaha ,10321
+21-Jul,Puttalam ,954
+21-Jul,Kalutara ,4412
+21-Jul,Anuradhapura,575
+21-Jul,Kandy ,1281
+21-Jul,Kurunegala,1530
+21-Jul,Polonnaruwa,644
+21-Jul,Jaffna ,1219
+21-Jul,Ratnapura ,1464
+21-Jul,Kegalle ,1631
+21-Jul,Moneragala,994
+21-Jul,Kalmunai ,906
+21-Jul,Matale,652
+21-Jul,Galle ,3500
+21-Jul,Ampara ,445
+21-Jul,Badulla,1947
+21-Jul,Matara ,1380
+21-Jul,Batticoloa ,744
+21-Jul,Hambantota,674
+21-Jul,Vavunia,243
+21-Jul,Trincomalee,365
+21-Jul,Nuwaraeliya ,1098
+21-Jul,Kilinochchi ,279
+21-Jul,Mannar ,429
+21-Jul,Mullativu ,109
+21-Aug,Colombo ,27711
+21-Aug,Gampaha ,24410
+21-Aug,Puttalam ,3031
+21-Aug,Kalutara ,10796
+21-Aug,Anuradhapura,2375
+21-Aug,Kandy ,3073
+21-Aug,Kurunegala,5757
+21-Aug,Polonnaruwa,1172
+21-Aug,Jaffna ,2671
+21-Aug,Ratnapura ,2358
+21-Aug,Kegalle ,1753
+21-Aug,Moneragala,2991
+21-Aug,Kalmunai ,1172
+21-Aug,Matale,3450
+21-Aug,Galle ,9364
+21-Aug,Ampara ,3186
+21-Aug,Badulla,2710
+21-Aug,Matara ,2493
+21-Aug,Batticoloa ,2518
+21-Aug,Hambantota,4938
+21-Aug,Vavunia,993
+21-Aug,Trincomalee,430
+21-Aug,Nuwaraeliya ,2776
+21-Aug,Kilinochchi ,2387
+21-Aug,Mannar ,366
+21-Aug,Mullativu ,268
+21-Sep,Colombo ,11797
+21-Sep,Gampaha ,12381
+21-Sep,Puttalam ,3393
+21-Sep,Kalutara ,15855
+21-Sep,Anuradhapura,3254
+21-Sep,Kandy ,1548
+21-Sep,Kurunegala,3845
+21-Sep,Polonnaruwa,476
+21-Sep,Jaffna ,1758
+21-Sep,Ratnapura ,2804
+21-Sep,Kegalle ,2452
+21-Sep,Moneragala,3336
+21-Sep,Kalmunai ,1052
+21-Sep,Matale,2995
+21-Sep,Galle ,6626
+21-Sep,Ampara ,4456
+21-Sep,Badulla,1790
+21-Sep,Matara ,2307
+21-Sep,Batticoloa ,3025
+21-Sep,Hambantota,2470
+21-Sep,Vavunia,497
+21-Sep,Trincomalee,323
+21-Sep,Nuwaraeliya ,610
+21-Sep,Kilinochchi ,2893
+21-Sep,Mannar ,362
+21-Sep,Mullativu ,418
+21-Oct,Colombo ,2874
+21-Oct,Gampaha ,3467
+21-Oct,Puttalam ,912
+21-Oct,Kalutara ,914
+21-Oct,Anuradhapura,918
+21-Oct,Kandy ,314
+21-Oct,Kurunegala,1245
+21-Oct,Polonnaruwa,193
+21-Oct,Jaffna ,496
+21-Oct,Ratnapura ,1290
+21-Oct,Kegalle ,719
+21-Oct,Moneragala,921
+21-Oct,Kalmunai ,24
+21-Oct,Matale,639
+21-Oct,Galle ,2860
+21-Oct,Ampara ,1412
+21-Oct,Badulla,967
+21-Oct,Matara ,1212
+21-Oct,Batticoloa ,333
+21-Oct,Hambantota,543
+21-Oct,Vavunia,212
+21-Oct,Trincomalee,161
+21-Oct,Nuwaraeliya ,305
+21-Oct,Kilinochchi ,704
+21-Oct,Mannar ,197
+21-Oct,Mullativu ,118
+21-Nov,Colombo ,1973
+21-Nov,Gampaha ,2662
+21-Nov,Puttalam ,484
+21-Nov,Kalutara ,915
+21-Nov,Anuradhapura,1065
+21-Nov,Kandy ,283
+21-Nov,Kurunegala,1232
+21-Nov,Polonnaruwa,242
+21-Nov,Jaffna ,371
+21-Nov,Ratnapura ,1231
+21-Nov,Kegalle ,622
+21-Nov,Moneragala,1487
+21-Nov,Kalmunai ,3
+21-Nov,Matale,820
+21-Nov,Galle ,1891
+21-Nov,Ampara ,1246
+21-Nov,Badulla,414
+21-Nov,Matara ,2025
+21-Nov,Batticoloa ,96
+21-Nov,Hambantota,1990
+21-Nov,Vavunia,92
+21-Nov,Trincomalee,64
+21-Nov,Nuwaraeliya ,201
+21-Nov,Kilinochchi ,764
+21-Nov,Mannar ,200
+21-Nov,Mullativu ,94
+21-Dec,Colombo ,2511
+21-Dec,Gampaha ,3093
+21-Dec,Puttalam ,550
+21-Dec,Kalutara ,936
+21-Dec,Anuradhapura,936
+21-Dec,Kandy ,294
+21-Dec,Kurunegala,1308
+21-Dec,Polonnaruwa,142
+21-Dec,Jaffna ,161
+21-Dec,Ratnapura ,1340
+21-Dec,Kegalle ,439
+21-Dec,Moneragala,1185
+21-Dec,Kalmunai ,9
+21-Dec,Matale,973
+21-Dec,Galle ,2862
+21-Dec,Ampara ,926
+21-Dec,Badulla,354
+21-Dec,Matara ,2242
+21-Dec,Batticoloa ,54
+21-Dec,Hambantota,2498
+21-Dec,Vavunia,56
+21-Dec,Trincomalee,29
+21-Dec,Nuwaraeliya ,163
+21-Dec,Kilinochchi ,418
+21-Dec,Mannar ,34
+21-Dec,Mullativu ,46
+22-Jan,Colombo ,6634
+22-Jan,Gampaha ,3980
+22-Jan,Puttalam ,461
+22-Jan,Kalutara ,1120
+22-Jan,Anuradhapura,500
+22-Jan,Kandy ,539
+22-Jan,Kurunegala,624
+22-Jan,Polonnaruwa,86
+22-Jan,Jaffna ,124
+22-Jan,Ratnapura ,814
+22-Jan,Kegalle ,230
+22-Jan,Moneragala,419
+22-Jan,Kalmunai ,86
+22-Jan,Matale,390
+22-Jan,Galle ,1797
+22-Jan,Ampara ,425
+22-Jan,Badulla,201
+22-Jan,Matara ,1567
+22-Jan,Batticoloa ,525
+22-Jan,Hambantota,1226
+22-Jan,Vavunia,26
+22-Jan,Trincomalee,33
+22-Jan,Nuwaraeliya ,180
+22-Jan,Kilinochchi ,276
+22-Jan,Mannar ,32
+22-Jan,Mullativu ,44
+22-Feb,Colombo ,9875
+22-Feb,Gampaha ,6770
+22-Feb,Puttalam ,686
+22-Feb,Kalutara ,2142
+22-Feb,Anuradhapura,1341
+22-Feb,Kandy ,979
+22-Feb,Kurunegala,1449
+22-Feb,Polonnaruwa,72
+22-Feb,Jaffna ,523
+22-Feb,Ratnapura ,681
+22-Feb,Kegalle ,280
+22-Feb,Moneragala,909
+22-Feb,Kalmunai ,18
+22-Feb,Matale,349
+22-Feb,Galle ,2901
+22-Feb,Ampara ,146
+22-Feb,Badulla,697
+22-Feb,Matara ,1934
+22-Feb,Batticoloa ,145
+22-Feb,Hambantota,1557
+22-Feb,Vavunia,47
+22-Feb,Trincomalee,36
+22-Feb,Nuwaraeliya ,113
+22-Feb,Kilinochchi ,863
+22-Feb,Mannar ,17
+22-Feb,Mullativu ,115
+22-Mar,Colombo ,4573
+22-Mar,Gampaha ,2050
+22-Mar,Puttalam ,173
+22-Mar,Kalutara ,994
+22-Mar,Anuradhapura,440
+22-Mar,Kandy ,583
+22-Mar,Kurunegala,709
+22-Mar,Polonnaruwa,38
+22-Mar,Jaffna ,67
+22-Mar,Ratnapura ,878
+22-Mar,Kegalle ,115
+22-Mar,Moneragala,401
+22-Mar,Kalmunai ,4
+22-Mar,Matale,259
+22-Mar,Galle ,2393
+22-Mar,Ampara ,160
+22-Mar,Badulla,198
+22-Mar,Matara ,1582
+22-Mar,Batticoloa ,24
+22-Mar,Hambantota,1038
+22-Mar,Vavunia,16
+22-Mar,Trincomalee,10
+22-Mar,Nuwaraeliya ,58
+22-Mar,Kilinochchi ,224
+22-Mar,Mannar ,1
+22-Mar,Mullativu ,41
+22-Apr,Colombo ,608
+22-Apr,Gampaha ,264
+22-Apr,Puttalam ,19
+22-Apr,Kalutara ,116
+22-Apr,Anuradhapura,35
+22-Apr,Kandy ,47
+22-Apr,Kurunegala,69
+22-Apr,Polonnaruwa,5
+22-Apr,Jaffna ,1
+22-Apr,Ratnapura ,54
+22-Apr,Kegalle ,14
+22-Apr,Moneragala,26
+22-Apr,Kalmunai ,0
+22-Apr,Matale,12
+22-Apr,Galle ,273
+22-Apr,Ampara ,5
+22-Apr,Badulla,45
+22-Apr,Matara ,121
+22-Apr,Batticoloa ,0
+22-Apr,Hambantota,128
+22-Apr,Vavunia,0
+22-Apr,Trincomalee,1
+22-Apr,Nuwaraeliya ,4
+22-Apr,Kilinochchi ,22
+22-Apr,Mannar ,0
+22-Apr,Mullativu ,6
