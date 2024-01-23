@@ -1,4 +1,4 @@
-# regional  COVID-19 Cases in Sri Lanka Dataset
+# Regional  COVID-19 Cases in Sri Lanka Dataset
 
 ## Overview
 
