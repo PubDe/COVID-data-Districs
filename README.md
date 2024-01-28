@@ -20,7 +20,7 @@ This repository contains a dataset documenting the COVID-19 cases in Districs of
 5. **Cases:** The number of COVID-19 cases reported.
 6. **District:** The district in Sri Lanka where the cases were recorded.
 
-**__Important Note:__ the column "Day" NOT shows the number of cases recorded in that date. It only mention the day which the data was recorded.**
+**_Important Note:_ The column "Day" NOT shows the number of cases recorded in that date. It only mention the day which the data was recorded.**
 
 ## Usage
 
