@@ -9,16 +9,18 @@ This repository contains a dataset documenting the COVID-19 cases in Districs of
 - **Year:** 2021
 - **Quarters:** Qtr 1
 - **Months:** January
-- **Days:** 1
+- **Days (shows date of update):** 1
 
 ## Data Columns
 
 1. **Year:** The year in which the data was recorded.
 2. **Quarter:** The quarter of the year.
 3. **Month:** The month in which the data was recorded.
-4. **Day:** The day of the month.
+4. **Day:** The day which the data was recorded.
 5. **Cases:** The number of COVID-19 cases reported.
 6. **District:** The district in Sri Lanka where the cases were recorded.
+
+**Important Note: the column "Day" NOT shows the number of cases recorded in that date. It only mention the day which the data was recorded.**
 
 ## Usage
 
